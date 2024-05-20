@@ -13,5 +13,4 @@ while (a == 0) {
     }
     else { console.log('I valori non sono uguali'); }
     array[1] = array[0]
-
 }
